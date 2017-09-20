@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">TestForms</string>
+  <string name="required_error">This field is required</string>
+  <string name="custom_required_error">This field is required for radio group</string>
+  <string name="min_error">string too small (need minimum %d)</string>
+  <string name="max_error">string too large (need maximum %d)</string>
+</resources>
